@@ -1,4 +1,4 @@
-﻿# 2.3. 기본사양
+﻿# 2.3. Basic Specifications
 
 Table 2-1 Specifications for Models
 <style type="text/css">

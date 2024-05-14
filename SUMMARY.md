@@ -39,7 +39,7 @@
 * [2. Specifications](2-specifications/README.md)
   * [2.1. Robot Machinery Part](2-specifications/1-Robot_Machinery_Part.md)
   * [2.2. Location of Robot Identification Plate](2-specifications/2-Location_of_Robot_Identificatyion_Plate.md)
-  * [2.3. Basic Specifications](2-specifications/3-Basic_Specifications.md)
+  * [2.3. Basic Specifications](2-specifications/3-basic_specifications.md)
   * [2.4. Robot Dimension and Working Envelope](2-specifications/4-Robot_Dimensions_and_Working_Envelope.md)
   * [2.5. Axis Identification](2-specifications/5-Axis_Identification.md) 
   * [2.6. Details of Wrist Axis Attachment Surface](2-specifications/6-Details_of_Wrist_Axis_attachment_Surface.md)

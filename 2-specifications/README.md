@@ -1,1 +1,1 @@
-﻿# 2. 사양
+﻿# 2. Specifications
